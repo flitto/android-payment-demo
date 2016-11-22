@@ -1,6 +1,6 @@
 # android-payment-demo
 
-Android demo application built with [WechaPay](https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2F) and watch out [WeChatPay library for nodejs](https://github.com/flitto/wechatpay) for server side.
+Android demo application built with [WechaPay](https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2F) and watch out [WeChatPay nodejs library](https://github.com/flitto/wechatpay) for server side.
 
 ## Documents
 
