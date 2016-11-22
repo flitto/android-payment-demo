@@ -69,3 +69,8 @@ protected void onResume() {
   registerReceiver(receiver, new IntentFilter(WXPayEntryActivity.TAG));
 }
 ```
+
+
+## Reference
+
+Server Demo : [node-wechatpay](https://github.com/flitto/wechatpay)
