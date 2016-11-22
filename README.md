@@ -1,6 +1,6 @@
 # android-payment-demo
 
-Android demo application built with [WechaPay](https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2F)
+Android demo application built with [WechaPay](https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2F) and watch out [WeChatPay library for nodejs](https://github.com/flitto/wechatpay) for server side.
 
 ## Documents
 
@@ -69,8 +69,3 @@ protected void onResume() {
   registerReceiver(receiver, new IntentFilter(WXPayEntryActivity.TAG));
 }
 ```
-
-
-## Reference
-
-Server Demo : [node-wechatpay](https://github.com/flitto/wechatpay)
